@@ -1,0 +1,2 @@
+info=("vijay",33,'engineer')
+print(info[0])
